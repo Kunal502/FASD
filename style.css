@@ -1,0 +1,18 @@
+body{
+    font-family: 'Special Elite';
+    behavior: smooth;
+}
+.main-div{
+    font-family: 'Special Elite';
+
+}
+
+.copy-right-footer{
+    font-family: 'Special Elite';
+    line-height: 50px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(146, 159,200); 
+    word-spacing: 2px;
+    background-color: lightsteelblue;
+    width: 100%;
+}
